@@ -31,10 +31,10 @@
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.6.1/LiveContainer.ipa",
           "size": 4200000,
           "version": "3.6.1",
-          "buildVersion": null,
-          "date": "2026-01-06T08:54:00-06:00",
+          "buildVersion": "16",
+          "date": "2026-01-06T20:54:00-06:00",
           "localizedDescription": null,
-          "minOSVersion": null
+          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
