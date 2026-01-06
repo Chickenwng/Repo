@@ -7,10 +7,73 @@
   "patreonURL": "https://github.com/Chickenwng",
   "tintColor": "#ff9b00",
   "featuredApps": [
-    "com.kdt.livecontainer"
+    "com.kdt.livecontainer",
+    "com.jevon.pocket8",
+    "com.lemin.Pocket-Poster"
   ],
   "headerURL": "https://i.imgur.com/3S31dPP.png",
   "apps": [
+    {
+      "name": "Pocket Poster",
+      "bundleIdentifier": "com.lemin.Pocket-Poster",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/iDiVQaU.png",
+      "tintColor": "#ff9b00",
+      "category": "other",
+      "screenshots": [
+        "https://i.imgur.com/eL3cFYy.png",
+        "https://i.imgur.com/jpZCrB5.png",
+        "https://i.imgur.com/VNgVAPY.jpeg"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/leminlimez/Pocket-Poster/releases/download/v3.0/Pocket_Poster.ipa",
+          "size": 13700000,
+          "version": "3.0",
+          "buildVersion": "5",
+          "date": "2026-01-06T09:20:00-06:00",
+          "localizedDescription": null,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Pocket8",
+      "bundleIdentifier": "com.jevon.pocket8",
+      "developerName": " jevonlipsey",
+      "subtitle": "Pico8 for IOS!",
+      "localizedDescription": "Pocket8 is developed in collaboration with Zep (Lexaloffle) to be the official BBS Companion app for PICO-8. Apart from the PICO-8 engine itself, Pocket8 is a solo dev project designed to bring the community a beautiful native app for mobile.\n",
+      "iconURL": "https://i.imgur.com/lh45eoO.png",
+      "tintColor": "#b4541c",
+      "category": "games",
+      "screenshots": [
+        "https://i.imgur.com/3aeNW8e.png",
+        "https://i.imgur.com/ebolhcJ.png"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/jevonlipsey/pico-ios/releases/download/v1.5/pocket8.ipa",
+          "size": 5300000,
+          "version": "1.5",
+          "buildVersion": "9",
+          "date": "2026-01-06T15:13:00-06:00",
+          "localizedDescription": "",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
     {
       "name": "LiveContainer",
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -27,12 +90,12 @@
       ],
       "versions": [
         {
-          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.6.1/LiveContainer.ipa",
-          "size": 4200000,
           "version": "3.6.1",
-          "buildVersion": "16",
           "date": "2026-01-06T20:54:00-06:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.6.1/LiveContainer.ipa",
+          "size": 4200000,
+          "buildVersion": "16",
           "minOSVersion": "17.0"
         }
       ],
@@ -76,5 +139,17 @@
       "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Repo launch!!!",
+      "identifier": "news_cde2nmwy7c",
+      "caption": "Yayy",
+      "date": "2026-01-06T03:12",
+      "tintColor": "#ff9b00",
+      "imageURL": "https://i.imgur.com/SupRuB8.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    }
+  ]
 }
