@@ -16,9 +16,11 @@
     {
       "name": "Pocket Poster",
       "bundleIdentifier": "com.lemin.Pocket-Poster",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "leminlimez",
+      "subtitle": "A posterboard app.",
+      "localizedDescription": "Custom PosterBoard animated wallpapers for iOS 17.0+
+
+Community-made wallpapers can be found on the official Cowabun.ga site. Join the Cowabunga Discord Server for additional help.",
       "iconURL": "https://i.imgur.com/iDiVQaU.png",
       "tintColor": "#ff9b00",
       "category": "other",
