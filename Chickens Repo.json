@@ -18,9 +18,7 @@
       "bundleIdentifier": "com.lemin.Pocket-Poster",
       "developerName": "leminlimez",
       "subtitle": "A posterboard app.",
-      "localizedDescription": "Custom PosterBoard animated wallpapers for iOS 17.0+
-
-Community-made wallpapers can be found on the official Cowabun.ga site. Join the Cowabunga Discord Server for additional help.",
+      "localizedDescription": "Custom PosterBoard animated wallpapers for iOS 17.0+",
       "iconURL": "https://i.imgur.com/iDiVQaU.png",
       "tintColor": "#ff9b00",
       "category": "other",
